@@ -1,5 +1,4 @@
 # Sashi-Rajbanshi
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Sashi Rajbanshi</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://c.tenor.com/BqbIhT4Mb7cAAAAd/programmer-rounded-edges.gif">
